@@ -39,3 +39,7 @@ Acknowledgments
 This project was inspired by the desire to create a lighthearted and engaging application that brings a smile to users' faces. Special thanks to the OpenCV community for providing powerful tools for computer vision applications.
 
 Enjoy capturing smiles with the Smile Detector and Selfie Capture project! If you have any feedback or suggestions, please feel free to open an issue or reach out. Happy smiling!
+
+
+https://github.com/eamonwong/SelfieStar/assets/75913022/32b7a468-9063-42c7-8d0b-43c724304b3f
+
