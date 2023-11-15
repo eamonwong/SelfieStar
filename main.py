@@ -1,6 +1,6 @@
 import cv2
 import datetime
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 smile_cascade = cv2.CascadeClassifier('haarcascade_smile.xml')
 while True:
