@@ -1,7 +1,7 @@
 # SelfieStar
 Welcome to SelfieStar! This Python-based endeavor focuses on creating a user-friendly experience by automatically detecting smiles through a webcam feed and capturing delightful selfies on demand. The implementation involves leveraging the OpenCV library and utilising a pre-trained Haar-cascade to identify key features of a smile.
 
-Features and Implementation
+## Features and Implementation
 - Smile Detection Algorithm:
   - The core functionality of the project lies in its ability to detect smiles in real-time through the webcam feed.
   - OpenCV, a powerful computer vision library, is employed to implement the smile detection algorithm.
@@ -18,7 +18,7 @@ Features and Implementation
   - Upon detecting a smile, the project goes a step further by allowing users to capture a selfie at the perfect moment.
   - This feature adds a fun and interactive element to the project, turning it into a personalised experience for the user.
 
-Future Enhancements
+## Future Enhancements
 While the current version offers a delightful and interactive experience, there are avenues for future improvements:
 
 - User Interface Refinement:
@@ -30,7 +30,7 @@ While the current version offers a delightful and interactive experience, there 
 - Integration with Social Media:
   - Implement features that allow users to share their captured selfies directly on social media platforms.
 
-Acknowledgments
+## Acknowledgments
 
 This project was inspired by the desire to create a lighthearted and engaging application that brings a smile to users' faces. Special thanks to the OpenCV community for providing powerful tools for computer vision applications.
 
